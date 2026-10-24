@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Portfolio-CodeNova-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/jirulsk2003">
-    <img src="https://img.shields.io/badge/GitHub-jirulsk2003-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-jirulsk2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -19,98 +19,133 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Technology undergraduate at **Narula Institute of Technology**, graduating in 2027. I enjoy building responsive web applications, exploring software development technologies, and solving programming problems.
+I'm an Information Technology undergraduate at **Narula Institute of Technology**, graduating in 2027. I enjoy building responsive web applications, exploring new technologies, and solving programming problems.
 
 * 🎓 B.Tech in Information Technology
 * 💻 Interested in Software Engineering and Full Stack Development
 * 🌱 Learning Java, Data Structures & Algorithms, React, and backend development
 * 🚀 Building practical projects to improve my development skills
-* 🤝 Enjoy collaborating with teams and learning from real-world projects
+* 🤝 Interested in teamwork and real-world software development
 * 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Programming Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS" />
 </p>
 
-### Frontend Development
+**Frontend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind" alt="React, Angular, Vite and Tailwind CSS" />
 </p>
 
-### Backend & Databases
+**Backend and Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postgres" alt="Node.js, Express, Spring, MySQL, MongoDB and PostgreSQL" />
 </p>
 
-### Tools & Platforms
+**Tools and Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,vercel" alt="Git, GitHub, VS Code, Postman, Google Cloud and Vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,vercel" alt="Git, GitHub, VS Code, Postman, GCP and Vercel" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Completed Projects
 
 ### 📰 NewsPulse — Modern News Website
 
-A responsive news website for browsing articles across different categories, including India, World, Sports, Technology, Business, Science, and Entertainment.
+A responsive news website for browsing articles across India, World, Sports, Technology, Business, Science, and Entertainment.
 
-* Integrated the GNews API for news retrieval.
+* Integrated the GNews API.
 * Built responsive article cards, navigation, and loading states.
-* **Technologies:** HTML, CSS, JavaScript, GNews API.
+* **Technologies:** HTML5, CSS3, JavaScript, GNews API.
 
-<p>
-  <a href="https://newspulse-beryl.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="NewsPulse live demo" />
-  </a>
-  <a href="https://github.com/jirulsk2003/NewsPulse">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="NewsPulse source code" />
-  </a>
-</p>
+[🌐 Live Demo](https://newspulse-beryl.vercel.app/) · [💻 Source Code](https://github.com/jirulsk2003/NewsPulse)
 
 ### 🌐 CodeNova — Personal Portfolio
 
-A personal portfolio website showcasing my development skills, projects, resume, and contact functionality.
+A personal portfolio showcasing my projects, skills, resume, and contact functionality.
 
-* Designed a responsive layout and interactive navigation.
-* Implemented dark mode and an EmailJS contact form.
-* **Technologies:** HTML, CSS, JavaScript, EmailJS.
+* Responsive layout and interactive navigation.
+* Dark mode and EmailJS contact form.
+* **Technologies:** HTML5, CSS3, JavaScript, EmailJS.
 
-<p>
-  <a href="https://codenova-gold.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="CodeNova live demo" />
-  </a>
-  <a href="https://github.com/jirulsk2003/CodeNova">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="CodeNova source code" />
-  </a>
-</p>
+[🌐 Live Demo](https://codenova-gold.vercel.app/) · [💻 Source Code](https://github.com/jirulsk2003/CodeNova)
 
 ### 👨‍👩‍👧 FamPlus — Family Health Tracker
 
-A family health-tracking web application developed as part of a four-member team. I contributed as the frontend developer.
+A family health-tracking application developed as part of a four-member team, where I contributed to frontend development.
 
-* Developed responsive authentication and family dashboard interfaces.
-* Built symptom-checking and health-vitals data-entry interfaces.
-* Used Chart.js to visualize blood pressure, blood sugar, and weight data.
+* Authentication and family dashboard interfaces.
+* Symptom checking and health-vitals data entry.
+* Charts for blood pressure, blood sugar, and weight.
 * **Technologies:** React.js, Vite, Tailwind CSS, Chart.js, REST APIs.
 
-<p>
-  <a href="https://fam-plus.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_FamPlus-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="FamPlus live demo" />
-  </a>
-  <a href="https://github.com/Sayak-Mandal/FamPlus">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="FamPlus source code" />
-  </a>
-</p>
+[🌐 Live Demo](https://fam-plus.vercel.app/) · [💻 Source Code](https://github.com/Sayak-Mandal/FamPlus)
+
+---
+
+## 🔭 Upcoming Projects
+
+I'm planning and developing projects to explore full-stack engineering, financial technology, social networking, and AI.
+
+### 💰 Dhandost — Personal Finance Manager
+
+**Status:** Planned / In Development
+
+A personal finance and budgeting application for students, employees, and everyday users.
+
+**Planned Features**
+
+* Track income, expenses, and monthly budgets.
+* Organize cash and UPI transactions.
+* Set savings goals and spending limits.
+* View financial summaries and spending analytics.
+* Explore AI-powered budgeting insights.
+
+**Planned Technologies:** React, backend APIs, database, and AI integration.
+
+### 🎓 UniMatch — College Social Networking Platform
+
+**Status:** In Development
+
+A college-focused social networking platform designed to help students connect within their college community.
+
+**Planned Features**
+
+* Student profiles and college information.
+* College ID submission and administrative verification.
+* Discover and connect with students.
+* Social interaction and messaging.
+* Privacy-focused account controls.
+
+**Technologies:** React, TypeScript, Java Spring Boot, PostgreSQL, and REST APIs.
+
+### 🤖 NISU — Personal AI Assistant
+
+**Status:** Future Project
+
+A personal AI assistant planned for after graduation, beginning with a PC-first approach and potentially expanding to mobile.
+
+**Long-Term Goals**
+
+* Voice commands and wake-word activation.
+* Local AI models and personalized memory.
+* Helpful computer-task automation.
+* Future mobile integration.
+* Privacy-conscious, locally controlled features.
+
+**Planned Direction:** Open-source tools, local AI models, and computer automation.
+
+> 🚧 Upcoming project features and technologies may change as development progresses.
 
 ---
 
@@ -119,7 +154,7 @@ A family health-tracking web application developed as part of a four-member team
 * ☕ Java and Object-Oriented Programming
 * 🧩 Data Structures & Algorithms
 * 🌐 Full Stack Web Development
-* 🏗️ REST APIs and backend development
+* 🔌 REST APIs and backend development
 * 🗄️ DBMS, Operating Systems, and Computer Networks
 * 💡 Problem-solving and technical interview preparation
 
@@ -127,7 +162,7 @@ A family health-tracking web application developed as part of a four-member team
 
 ## 🎓 Education
 
-**B.Tech — Information Technology**
+**B.Tech in Information Technology**
 
 Narula Institute of Technology
 
@@ -137,8 +172,15 @@ September 2023 – August 2027
 
 ## 📜 Certifications & Training
 
-* **Java Full Stack with Project** — 8-week internship credential, June 2026
-* **MEAN Full Stack Development Trainee** — Ardent Computech Pvt. Ltd.
+**Java Full Stack with Project — 8-Week Internship Credential**
+
+* Issued: June 2026
+* Covered HTML, CSS, Bootstrap, JavaScript, jQuery, Core Java, Advanced Java, Spring, Spring Boot, Hibernate, MySQL, and Git.
+* Project work: JSON Database Simulator.
+
+**MEAN Full Stack Development Trainee — Ardent Computech Pvt. Ltd.**
+
+* Focus areas: MongoDB, Express.js, Angular, Node.js, and REST APIs.
 
 ---
 
