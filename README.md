@@ -15,6 +15,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jirulsk2003&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -93,11 +97,27 @@ A family health-tracking application developed as part of a four-member team, wh
 
 ---
 
+## ⭐ Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/jirulsk2003/NewsPulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirulsk2003&repo=NewsPulse&theme=tokyonight&hide_border=true" alt="NewsPulse repository" />
+  </a>
+  <a href="https://github.com/jirulsk2003/CodeNova">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirulsk2003&repo=CodeNova&theme=tokyonight&hide_border=true" alt="CodeNova repository" />
+  </a>
+  <a href="https://github.com/Sayak-Mandal/FamPlus">
+    <img src="https://img.shields.io/badge/FamPlus-View_Repository-8B5CF6?style=for-the-badge&logo=github" alt="FamPlus repository" />
+  </a>
+</p>
+
+---
+
 ## 🔭 Upcoming Project
 
 ### 🤖 NISU — Personal AI Assistant
 
-**Status:** Future Project | Planned after graduation
+<badge>Future Project · Planned after graduation</badge>
 
 A personal AI assistant inspired by JARVIS, designed to help with everyday computer tasks through voice interaction, local AI, and automation.
 
@@ -111,27 +131,45 @@ A personal AI assistant inspired by JARVIS, designed to help with everyday compu
 - 📱 Future Android and mobile integration.
 - 🔐 Privacy-focused, locally controlled system.
 
-**Development Approach**
+**Development Roadmap**
 
-- Start with a PC-based assistant.
-- Explore free and open-source AI tools.
-- Prioritize local processing and personal memory.
-- Expand to mobile after the PC version is stable.
+| Phase | Development Goal |
+|---|---|
+| Phase 1 | PC-based voice assistant |
+| Phase 2 | Local AI models and personal memory |
+| Phase 3 | Computer automation and smart assistance |
+| Phase 4 | Android and mobile integration |
 
 **Planned Technologies:** Python, local AI models, speech recognition, text-to-speech, and automation tools.
 
-> 🚧 NISU is a future project. Its features and technology choices may evolve during development.
+> 🚧 NISU is a future project. Development will begin after graduation, and features may evolve.
+
+---
+
+## 🎯 My 2027 Career Goals
+
+My target is to become placement-ready for Software Engineer and Full Stack Developer roles.
+
+- ☕ Strengthen Java and Object-Oriented Programming.
+- 🧩 Master placement-focused Data Structures & Algorithms.
+- ⚛️ Improve React and TypeScript development.
+- 🌱 Learn Spring Boot and backend engineering.
+- 🗄️ Strengthen SQL, DBMS, Operating Systems, and Computer Networks.
+- 🏗️ Understand basic System Design.
+- 💻 Build practical full-stack projects.
+- 🎤 Improve communication and technical interview skills.
+- 🚀 Prepare for product-based company opportunities.
 
 ---
 
 ## 📚 Currently Learning
 
-- ☕ Java and Object-Oriented Programming
-- 🧩 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- 🔌 REST APIs and backend development
-- 🗄️ DBMS, Operating Systems, and Computer Networks
-- 💡 Problem-solving and technical interview preparation
+- Java and Object-Oriented Programming
+- Data Structures & Algorithms
+- Full Stack Web Development
+- REST APIs and backend development
+- DBMS, Operating Systems, and Computer Networks
+- Problem-solving and technical interview preparation
 
 ---
 
@@ -163,6 +201,12 @@ September 2023 – August 2027
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jirulsk2003&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirulsk2003&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
