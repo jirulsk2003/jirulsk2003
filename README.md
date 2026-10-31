@@ -21,12 +21,12 @@
 
 I'm an Information Technology undergraduate at **Narula Institute of Technology**, graduating in 2027. I enjoy building responsive web applications, exploring new technologies, and solving programming problems.
 
-* 🎓 B.Tech in Information Technology
-* 💻 Interested in Software Engineering and Full Stack Development
-* 🌱 Learning Java, Data Structures & Algorithms, React, and backend development
-* 🚀 Building practical projects to improve my development skills
-* 🤝 Interested in teamwork and real-world software development
-* 🎯 Goal: Become a skilled Software Engineer
+- 🎓 B.Tech in Information Technology
+- 💻 Interested in Software Engineering and Full Stack Development
+- 🌱 Learning Java, Data Structures & Algorithms, React, and backend development
+- 🚀 Building practical projects to improve my development skills
+- 🤝 Interested in teamwork and real-world software development
+- 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
@@ -35,25 +35,25 @@ I'm an Information Technology undergraduate at **Narula Institute of Technology*
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming languages" />
 </p>
 
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind" alt="React, Angular, Vite and Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind" alt="Frontend technologies" />
 </p>
 
 **Backend and Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postgres" alt="Node.js, Express, Spring, MySQL, MongoDB and PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postgres" alt="Backend and database technologies" />
 </p>
 
 **Tools and Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,vercel" alt="Git, GitHub, VS Code, Postman, GCP and Vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,vercel" alt="Development tools" />
 </p>
 
 ---
@@ -64,9 +64,9 @@ I'm an Information Technology undergraduate at **Narula Institute of Technology*
 
 A responsive news website for browsing articles across India, World, Sports, Technology, Business, Science, and Entertainment.
 
-* Integrated the GNews API.
-* Built responsive article cards, navigation, and loading states.
-* **Technologies:** HTML5, CSS3, JavaScript, GNews API.
+- Integrated the GNews API.
+- Built responsive article cards, navigation, and loading states.
+- **Technologies:** HTML5, CSS3, JavaScript, GNews API.
 
 [🌐 Live Demo](https://newspulse-beryl.vercel.app/) · [💻 Source Code](https://github.com/jirulsk2003/NewsPulse)
 
@@ -74,9 +74,9 @@ A responsive news website for browsing articles across India, World, Sports, Tec
 
 A personal portfolio showcasing my projects, skills, resume, and contact functionality.
 
-* Responsive layout and interactive navigation.
-* Dark mode and EmailJS contact form.
-* **Technologies:** HTML5, CSS3, JavaScript, EmailJS.
+- Responsive layout and interactive navigation.
+- Dark mode and EmailJS contact form.
+- **Technologies:** HTML5, CSS3, JavaScript, EmailJS.
 
 [🌐 Live Demo](https://codenova-gold.vercel.app/) · [💻 Source Code](https://github.com/jirulsk2003/CodeNova)
 
@@ -84,79 +84,54 @@ A personal portfolio showcasing my projects, skills, resume, and contact functio
 
 A family health-tracking application developed as part of a four-member team, where I contributed to frontend development.
 
-* Authentication and family dashboard interfaces.
-* Symptom checking and health-vitals data entry.
-* Charts for blood pressure, blood sugar, and weight.
-* **Technologies:** React.js, Vite, Tailwind CSS, Chart.js, REST APIs.
+- Authentication and family dashboard interfaces.
+- Symptom checking and health-vitals data entry.
+- Charts for blood pressure, blood sugar, and weight.
+- **Technologies:** React.js, Vite, Tailwind CSS, Chart.js, REST APIs.
 
 [🌐 Live Demo](https://fam-plus.vercel.app/) · [💻 Source Code](https://github.com/Sayak-Mandal/FamPlus)
 
 ---
 
-## 🔭 Upcoming Projects
-
-I'm planning and developing projects to explore full-stack engineering, financial technology, social networking, and AI.
-
-### 💰 Dhandost — Personal Finance Manager
-
-**Status:** Planned / In Development
-
-A personal finance and budgeting application for students, employees, and everyday users.
-
-**Planned Features**
-
-* Track income, expenses, and monthly budgets.
-* Organize cash and UPI transactions.
-* Set savings goals and spending limits.
-* View financial summaries and spending analytics.
-* Explore AI-powered budgeting insights.
-
-**Planned Technologies:** React, backend APIs, database, and AI integration.
-
-### 🎓 UniMatch — College Social Networking Platform
-
-**Status:** In Development
-
-A college-focused social networking platform designed to help students connect within their college community.
-
-**Planned Features**
-
-* Student profiles and college information.
-* College ID submission and administrative verification.
-* Discover and connect with students.
-* Social interaction and messaging.
-* Privacy-focused account controls.
-
-**Technologies:** React, TypeScript, Java Spring Boot, PostgreSQL, and REST APIs.
+## 🔭 Upcoming Project
 
 ### 🤖 NISU — Personal AI Assistant
 
-**Status:** Future Project
+**Status:** Future Project | Planned after graduation
 
-A personal AI assistant planned for after graduation, beginning with a PC-first approach and potentially expanding to mobile.
+A personal AI assistant inspired by JARVIS, designed to help with everyday computer tasks through voice interaction, local AI, and automation.
 
-**Long-Term Goals**
+**Planned Features**
 
-* Voice commands and wake-word activation.
-* Local AI models and personalized memory.
-* Helpful computer-task automation.
-* Future mobile integration.
-* Privacy-conscious, locally controlled features.
+- 🎙️ Voice commands and wake-word activation.
+- 🧠 Local AI models and personalized memory.
+- 💻 PC task automation and application control.
+- 🔍 Smart search and information assistance.
+- 📁 File and folder management assistance.
+- 📱 Future Android and mobile integration.
+- 🔐 Privacy-focused, locally controlled system.
 
-**Planned Direction:** Open-source tools, local AI models, and computer automation.
+**Development Approach**
 
-> 🚧 Upcoming project features and technologies may change as development progresses.
+- Start with a PC-based assistant.
+- Explore free and open-source AI tools.
+- Prioritize local processing and personal memory.
+- Expand to mobile after the PC version is stable.
+
+**Planned Technologies:** Python, local AI models, speech recognition, text-to-speech, and automation tools.
+
+> 🚧 NISU is a future project. Its features and technology choices may evolve during development.
 
 ---
 
 ## 📚 Currently Learning
 
-* ☕ Java and Object-Oriented Programming
-* 🧩 Data Structures & Algorithms
-* 🌐 Full Stack Web Development
-* 🔌 REST APIs and backend development
-* 🗄️ DBMS, Operating Systems, and Computer Networks
-* 💡 Problem-solving and technical interview preparation
+- ☕ Java and Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- 🔌 REST APIs and backend development
+- 🗄️ DBMS, Operating Systems, and Computer Networks
+- 💡 Problem-solving and technical interview preparation
 
 ---
 
@@ -174,22 +149,17 @@ September 2023 – August 2027
 
 **Java Full Stack with Project — 8-Week Internship Credential**
 
-* Issued: June 2026
-* Covered HTML, CSS, Bootstrap, JavaScript, jQuery, Core Java, Advanced Java, Spring, Spring Boot, Hibernate, MySQL, and Git.
-* Project work: JSON Database Simulator.
+- Issued: June 2026
+- Covered HTML, CSS, Bootstrap, JavaScript, jQuery, Core Java, Advanced Java, Spring, Spring Boot, Hibernate, MySQL, and Git.
+- Project work: JSON Database Simulator.
 
 **MEAN Full Stack Development Trainee — Ardent Computech Pvt. Ltd.**
 
-* Focus areas: MongoDB, Express.js, Angular, Node.js, and REST APIs.
+- Focus areas: MongoDB, Express.js, Angular, Node.js, and REST APIs.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jirulsk2003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirulsk2003&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jirulsk2003&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
@@ -199,7 +169,7 @@ September 2023 – August 2027
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/jirulsk2003">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
