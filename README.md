@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://codenova-gold.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-CodeNova-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://github.com/jirulsk2003">
     <img src="https://img.shields.io/badge/GitHub-jirulsk2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://codenova-gold.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-CodeNova-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -36,80 +36,106 @@ I'm an Information Technology undergraduate at **Narula Institute of Technology*
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming languages" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Frontend Development**
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind" alt="Frontend technologies" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**Backend and Databases**
+### Backend and Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postgres" alt="Backend and database technologies" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Tools and Platforms**
+### Tools and Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,vercel" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
 ## 🚀 Completed Projects
 
-### 📰 NewsPulse — Modern News Website
+### 📰 1. NewsPulse — Modern News Website
 
 A responsive news website for browsing articles across India, World, Sports, Technology, Business, Science, and Entertainment.
 
-- Integrated the GNews API.
-- Built responsive article cards, navigation, and loading states.
-- **Technologies:** HTML5, CSS3, JavaScript, GNews API.
+**Key Features**
+- Integrated GNews API.
+- Category-based news browsing.
+- Responsive article cards and navigation.
+- News loading and display functionality.
 
-[🌐 Live Demo](https://newspulse-beryl.vercel.app/) · [💻 Source Code](https://github.com/jirulsk2003/NewsPulse)
+**Technologies:** HTML5, CSS3, JavaScript, GNews API.
 
-### 🌐 CodeNova — Personal Portfolio
+- 🌐 [Live Demo](https://newspulse-beryl.vercel.app/)
+- 💻 [GitHub Repository](https://github.com/jirulsk2003/NewsPulse)
 
-A personal portfolio showcasing my projects, skills, resume, and contact functionality.
+### 🌐 2. CodeNova — Personal Portfolio
 
-- Responsive layout and interactive navigation.
-- Dark mode and EmailJS contact form.
-- **Technologies:** HTML5, CSS3, JavaScript, EmailJS.
+A personal portfolio showcasing my projects, technical skills, resume, and contact functionality.
 
-[🌐 Live Demo](https://codenova-gold.vercel.app/) · [💻 Source Code](https://github.com/jirulsk2003/CodeNova)
+**Key Features**
+- Responsive portfolio design.
+- Interactive navigation.
+- Dark mode.
+- EmailJS contact form.
 
-### 👨‍👩‍👧 FamPlus — Family Health Tracker
+**Technologies:** HTML5, CSS3, JavaScript, EmailJS.
 
-A family health-tracking application developed as part of a four-member team, where I contributed to frontend development.
+- 🌐 [Live Portfolio](https://codenova-gold.vercel.app/)
+- 💻 [GitHub Repository](https://github.com/jirulsk2003/CodeNova)
 
-- Authentication and family dashboard interfaces.
-- Symptom checking and health-vitals data entry.
-- Charts for blood pressure, blood sugar, and weight.
-- **Technologies:** React.js, Vite, Tailwind CSS, Chart.js, REST APIs.
+### 👨‍👩‍👧 3. FamPlus — Family Health Tracker
 
-[🌐 Live Demo](https://fam-plus.vercel.app/) · [💻 Source Code](https://github.com/Sayak-Mandal/FamPlus)
+A family health-tracking application developed as part of a four-member team. My role was Frontend Lead.
+
+**Key Features**
+- Login and registration interfaces.
+- Family dashboard and member management.
+- Symptom and health-vitals tracking.
+- Blood pressure, blood sugar, and weight charts.
+- Health report generation.
+
+**Technologies:** React.js, Vite, Tailwind CSS, Chart.js, REST APIs.
+
+- 🌐 [Live Demo](https://fam-plus.vercel.app/)
+- 💻 [GitHub Repository](https://github.com/Sayak-Mandal/FamPlus)
 
 ---
 
 ## ⭐ Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/jirulsk2003/NewsPulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirulsk2003&repo=NewsPulse&theme=tokyonight&hide_border=true" alt="NewsPulse repository" />
-  </a>
-  <a href="https://github.com/jirulsk2003/CodeNova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jirulsk2003&repo=CodeNova&theme=tokyonight&hide_border=true" alt="CodeNova repository" />
-  </a>
-  <a href="https://github.com/Sayak-Mandal/FamPlus">
-    <img src="https://img.shields.io/badge/FamPlus-View_Repository-8B5CF6?style=for-the-badge&logo=github" alt="FamPlus repository" />
-  </a>
-</p>
+| Project | Description | Repository |
+|---|---|---|
+| 📰 NewsPulse | Modern news website | [View Repository](https://github.com/jirulsk2003/NewsPulse) |
+| 🌐 CodeNova | Personal developer portfolio | [View Repository](https://github.com/jirulsk2003/CodeNova) |
+| 👨‍👩‍👧 FamPlus | Family health tracker | [View Repository](https://github.com/Sayak-Mandal/FamPlus) |
 
 ---
 
@@ -117,11 +143,11 @@ A family health-tracking application developed as part of a four-member team, wh
 
 ### 🤖 NISU — Personal AI Assistant
 
-<badge>Future Project · Planned after graduation</badge>
+**Status:** Future Project — Planned after graduation
 
-A personal AI assistant inspired by JARVIS, designed to help with everyday computer tasks through voice interaction, local AI, and automation.
+A personal AI assistant inspired by JARVIS, designed to help with everyday computer tasks through voice interaction, local AI, personalized memory, and automation.
 
-**Planned Features**
+### Planned Features
 
 - 🎙️ Voice commands and wake-word activation.
 - 🧠 Local AI models and personalized memory.
@@ -131,7 +157,7 @@ A personal AI assistant inspired by JARVIS, designed to help with everyday compu
 - 📱 Future Android and mobile integration.
 - 🔐 Privacy-focused, locally controlled system.
 
-**Development Roadmap**
+### Development Roadmap
 
 | Phase | Development Goal |
 |---|---|
@@ -142,7 +168,7 @@ A personal AI assistant inspired by JARVIS, designed to help with everyday compu
 
 **Planned Technologies:** Python, local AI models, speech recognition, text-to-speech, and automation tools.
 
-> 🚧 NISU is a future project. Development will begin after graduation, and features may evolve.
+> 🚧 NISU is a future project. Development is planned after graduation. Features and technologies may evolve.
 
 ---
 
@@ -185,13 +211,13 @@ September 2023 – August 2027
 
 ## 📜 Certifications & Training
 
-**Java Full Stack with Project — 8-Week Internship Credential**
+### Java Full Stack with Project — 8-Week Internship Credential
 
-- Issued: June 2026
+- Issued: June 2026.
 - Covered HTML, CSS, Bootstrap, JavaScript, jQuery, Core Java, Advanced Java, Spring, Spring Boot, Hibernate, MySQL, and Git.
 - Project work: JSON Database Simulator.
 
-**MEAN Full Stack Development Trainee — Ardent Computech Pvt. Ltd.**
+### MEAN Full Stack Development Trainee — Ardent Computech Pvt. Ltd.
 
 - Focus areas: MongoDB, Express.js, Angular, Node.js, and REST APIs.
 
@@ -203,10 +229,16 @@ September 2023 – August 2027
   <img src="https://streak-stats.demolab.com?user=jirulsk2003&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirulsk2003&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/jirulsk2003">
+    <img src="https://img.shields.io/badge/View_My-GitHub_Contributions-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my public repositories, contribution history, and coding activity directly on GitHub.
 </p>
 
 ---
@@ -219,9 +251,6 @@ September 2023 – August 2027
   </a>
   <a href="https://codenova-gold.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-CodeNova-8B5CF6?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="mailto:jirulsk742184@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
