@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Technology undergraduate at **Narula Institute of Technology**, graduating in 2027. I enjoy building responsive web applications, exploring new technologies, and solving programming problems.
+I'm an **Information Technology** undergraduate at **Narula Institute of Technology**, **graduating in 2027**. I enjoy building responsive web applications, exploring new technologies, and solving programming problems.
 
 - 🎓 B.Tech in Information Technology
 - 💻 Interested in Software Engineering and Full Stack Development
